@@ -102,7 +102,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
-          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          deploy_key: ${{ secrets.PERSONAL_TOKEN }}
           external_repository: laomaiorg/laomaiorg.github.io
           publish_branch: workouts
           publish_dir: ./dist

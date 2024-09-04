@@ -97,12 +97,13 @@ jobs:
       - name: Install dependencies
         run: pnpm install
       - name: Build
-        run: PATH_PREFIX=/ pnpm build
+        run: PATH_PREFIX=/${{ github.event.repository.name }} pnpm build
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          external_repository: laomaiorg/laomaiorg.github.io
-          publish_branch: workouts
-          publish_dir: ./dist
+          # Upload dist repository
+          path: './dist'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

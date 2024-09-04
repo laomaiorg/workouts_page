@@ -1,21 +1,5 @@
 [
 {
-"run_id": 9223370311445714653,
-"name": "Morning Walk",
-"distance": 4202.5654,
-"moving_time": "0:45:23",
-"type": "Hike",
-"start_date": "2024-09-03 23:32:16",
-"start_date_local": "2024-09-04 07:32:16",
-"location_country": "{'latitude': 23.737289, 'longitude': 113.027849, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5e7f\u4e1c\u7701', 'city': '\u6e05\u8fdc\u5e02', 'cityCode': '0763', 'district': '\u6e05\u57ce\u533a', 'districtCode': '441802', 'startLatitude': 23.736934, 'startLongitude': 113.027659}",
-"summary_polyline": "ur{oCatypTPYRc@^]h@e@HGGYVIH@h@[\\a@d@UFYAKRa@JELAPQP_@NDX@JERQZs@HMb@Ol@Qj@k@L_@NCXIb@}@HYHKh@Yf@e@v@c@v@[f@[TULEXAv@Sp@]p@WXIp@Yr@Ut@ONEz@@VBh@Pp@V^VR\\NH`@Ln@\\\\Pb@p@HTDXE~@P|@D^Z^j@d@p@Zz@Dr@Lt@d@RTXn@LTn@d@THN?d@ZDHLDLLP\\H^`@r@r@^h@\\HLNHJVVRXLTNRXF`@?\\[h@QPGN]Zi@n@MPQb@?NVVb@Lb@t@JHTCBI]g@GBEHk@t@g@l@QTc@n@m@t@]j@V`@HADGKYKAGZk@q@MCUFFeAKEQAO^UNKJGZQNM?MF_@?MDWAGEWEs@]c@Ya@o@a@y@_@y@EY]q@GQg@k@k@u@_@]OGYWg@QKAMGq@O[?QE}@Bk@Dy@Kq@Se@Ak@OIGc@M{@_@OCq@a@g@k@WW_@Wo@_@a@S}@_@[[QSG?WPMBSQKAOBQNKA[]{@]IGe@Iu@_@[SISMGWF]OMKMBQPMBMHCXYPUHIDYI?PK^e@n@OPOFIHENPT_@IXNQBq@\\EL@LGFGE",
-"average_heartrate": null,
-"average_speed": 1.5433585751009917,
-"elevation_gain": 167.53,
-"source": "Keep",
-"streak": 1
-},
-{
 "run_id": 12321514485,
 "name": "\u6668\u95f4\u884c\u8d70",
 "distance": 4235.6,

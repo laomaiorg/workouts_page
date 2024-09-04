@@ -11,19 +11,15 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Workouts Map',
-  siteUrl: 'https://ben29.xyz',
-  logo: 'https://avatars3.githubusercontent.com/u/6956444?s=460&u=97e1062227c4088db3c987146455245c6fa78441',
-  description: 'Personal site and blog',
-  keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
+  siteTitle: "LaoMai's Workouts Map",
+  siteUrl: 'https://workouts.laomai.org',
+  logo: 'https://cravatar.com/avatar/8b7f3b316357d4b0439470c51ae7af05?d=mp&s=240',
+  description: "Laomai's personal site and blog",
+  keywords: 'laomai, 老麦, workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
     {
       name: 'Blog',
-      url: 'https://ben29.xyz',
-    },
-    {
-      name: 'About',
-      url: 'https://github.com/ben-29/workouts_page/blob/master/README-CN.md',
+      url: 'https://www.iamlm.com',
     },
   ],
 };

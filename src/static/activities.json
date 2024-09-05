@@ -94,5 +94,37 @@
 "elevation_gain": 2.0,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 12331294784,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 2342.4,
+"moving_time": "0:04:44",
+"type": "Run",
+"start_date": "2024-09-05 09:56:11+00:00",
+"start_date_local": "2024-09-05 17:56:11",
+"location_country": "United States",
+"summary_polyline": "a{{oC_xypTES_@PCAlEvADDF?\\KFG?CBE?IDQpBoBXGACFODAD_@HGTGP?BCBDPO|@BfEqDLEHG|CyBJQP}@PQlGqDR?nDaAPSlIe@HN~ArAnAd@^ZNRBNb@dEzAzAH@~DvADLrDpCpAhCdEpCPZBJyCjGlB~BABFB",
+"average_heartrate": null,
+"average_speed": 8.248,
+"elevation_gain": 14.1,
+"source": "strava",
+"streak": 5
+},
+{
+"run_id": 12331486698,
+"name": "\u508d\u665a\u5065\u8d70",
+"distance": 1891.6,
+"moving_time": "0:12:52",
+"type": "Hike",
+"start_date": "2024-09-05 10:24:45+00:00",
+"start_date_local": "2024-09-05 18:24:45",
+"location_country": "United States",
+"summary_polyline": "{cyoCahypT@BCFEAEGK@IL?DWVGLKBABDGmBlCWjAcAw@KEOOkCzAK@eAC}@g@wBgCCMSk@}AqCKUKSQKWIKQWKEMs@Ic@WMAKBEAoEGKEeEaAwB{AoDkB{AmAcA?u@JaDaBE@aAs@a@b@WDg@?CD_ATEN]^@DOf@@EMFmAZoAzAISG?ULGCAKEBGAQXQ@@C@@AA",
+"average_heartrate": null,
+"average_speed": 2.45,
+"elevation_gain": 9.8,
+"source": "strava",
+"streak": 5
 }
 ]

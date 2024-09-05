@@ -62,5 +62,37 @@
 "elevation_gain": 24.8,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 12324130724,
+"name": "\u591c\u95f4\u8dd1\u6b65",
+"distance": 1048.4,
+"moving_time": "0:01:28",
+"type": "Run",
+"start_date": "2024-09-04 13:32:27+00:00",
+"start_date_local": "2024-09-04 21:32:27",
+"location_country": "United States",
+"summary_polyline": "kx{oCshypTRrCEd@^j@_AjCJFBDLr@QZPa@@FUtHQ^KFMb@JfGMt@",
+"average_heartrate": null,
+"average_speed": 11.914,
+"elevation_gain": 4.5,
+"source": "strava",
+"streak": 4
+},
+{
+"run_id": 12326195421,
+"name": "\u6df1\u591c\u8dd1\u6b65",
+"distance": 1172.0,
+"moving_time": "0:01:10",
+"type": "Run",
+"start_date": "2024-09-04 17:39:41+00:00",
+"start_date_local": "2024-09-05 01:39:41",
+"location_country": "United States",
+"summary_polyline": "g{{oC_nwpT?GAB?CJ{C@FGE@G?YCKH_@?KdAaLDO@eJCMj@{D?Ca@c@fAwHNsC]sI@_@Eq@BCAK",
+"average_heartrate": null,
+"average_speed": 16.743,
+"elevation_gain": 2.0,
+"source": "strava",
+"streak": 5
 }
 ]

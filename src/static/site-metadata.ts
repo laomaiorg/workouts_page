@@ -19,7 +19,7 @@ const data: ISiteMetadataResult = {
   navLinks: [
     {
       name: 'Blog',
-      url: 'https://www.iamlm.com',
+      url: 'https://laomai.org',
     },
   ],
 };

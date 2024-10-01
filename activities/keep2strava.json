@@ -118,5 +118,23 @@
 "name": "Walk from keep",
 "type": "Walk",
 "gpx_file_path": "/home/runner/work/workouts_page/workouts_page/GPX_OUT/9223370309273667673.gpx"
+},
+{
+"run_id": 9223370309112393557,
+"name": "Walk from keep",
+"type": "Walk",
+"gpx_file_path": "/home/runner/work/workouts_page/workouts_page/GPX_OUT/9223370309112393557.gpx"
+},
+{
+"run_id": 9223370309162752498,
+"name": "Walk from keep",
+"type": "Walk",
+"gpx_file_path": "/home/runner/work/workouts_page/workouts_page/GPX_OUT/9223370309162752498.gpx"
+},
+{
+"run_id": 9223370309187335342,
+"name": "Walk from keep",
+"type": "Walk",
+"gpx_file_path": "/home/runner/work/workouts_page/workouts_page/GPX_OUT/9223370309187335342.gpx"
 }
 ]

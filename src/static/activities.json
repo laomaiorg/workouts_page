@@ -510,5 +510,21 @@
 "elevation_gain": 9.2,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 12568987703,
+"name": "\u6668\u95f4\u884c\u8d70",
+"distance": 3766.9,
+"moving_time": "0:47:36",
+"type": "Hike",
+"start_date": "2024-10-03 23:07:36+00:00",
+"start_date_local": "2024-10-04 07:07:36",
+"location_country": "\u6e05\u65b0\u533a, \u6e05\u8fdc\u5e02, \u5e7f\u4e1c\u7701, 511500, \u4e2d\u56fd",
+"summary_polyline": "c~{oCatypT@IEIH@AWPBAUDg@AOVILANG\\e@DUNGZg@HGHAVFTOTBJJHBPKHMNGL?HNBXAHBJKT_@NW^IJMVONQ`@KDMNCj@GVCZYNEHM?Wa@GEWJi@@e@QIIHy@VIJWJGFMJk@XS@ILQTQLEPq@DERBJFLAPOH?h@Rd@EH@JX@RCLORI?OJ]f@OBKH]l@IFKR?\\F^EJQNSLO?c@c@YLWA[DYKCI?s@FMZSJCT]HY@MDIb@sAp@e@JCV@ZOFATHp@ELHLBFD@f@GRYVMF]d@a@XWd@Sf@?b@BXKTUNI@MICGWIEKKB@HSX[GYBGMCs@@Y`@iBH?b@c@Vk@FGHULEZYL?RSL?JBTPDRHDHCBGTEJ?LBJTA^AHGH]DKF[x@g@b@U\\ET@PCVO`@ULM@MAEGu@VIHU@QMGKIaABe@\\e@Pa@@Mj@u@f@}@ZQFKN?HBj@YJ@VNf@?LBR^ANIPSBSJGXa@l@g@b@Sb@Cn@GLALMVIDKOCIe@LKFk@BICSAKGCG@e@CUAg@V]HYAKGAPCNMJEJUBUN]HIh@]PCRHJ@HGDMNJPRL?LBLCHMPIDHBJVNBJINCb@[Vi@VIPAVHFH@@IFF@f@I^BLQh@a@^GJ@HIFICS@QEYBI?e@FKCBD",
+"average_heartrate": null,
+"average_speed": 1.319,
+"elevation_gain": 52.3,
+"source": "strava",
+"streak": 1
 }
 ]

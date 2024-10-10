@@ -172,5 +172,11 @@
 "name": "Walk from keep",
 "type": "Walk",
 "gpx_file_path": "/home/runner/work/workouts_page/workouts_page/GPX_OUT/9223370308422799287.gpx"
+},
+{
+"run_id": 9223370308336901982,
+"name": "Walk from keep",
+"type": "Walk",
+"gpx_file_path": "/home/runner/work/workouts_page/workouts_page/GPX_OUT/9223370308336901982.gpx"
 }
 ]

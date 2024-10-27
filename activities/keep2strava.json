@@ -220,5 +220,11 @@
 "name": "Ride from keep",
 "type": "Ride",
 "gpx_file_path": "/home/runner/work/workouts_page/workouts_page/GPX_OUT/9223370307334687549.gpx"
+},
+{
+"run_id": 9223370306927627005,
+"name": "Ride from keep",
+"type": "Ride",
+"gpx_file_path": "/home/runner/work/workouts_page/workouts_page/GPX_OUT/9223370306927627005.gpx"
 }
 ]

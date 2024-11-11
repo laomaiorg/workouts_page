@@ -766,5 +766,21 @@
 "elevation_gain": 4.6,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12872190022,
+"name": "\u6668\u95f4\u884c\u8d70",
+"distance": 1376.7,
+"moving_time": "0:16:02",
+"type": "Hike",
+"start_date": "2024-11-10 23:13:01+00:00",
+"start_date_local": "2024-11-11 07:13:01",
+"location_country": "\u6e05\u65b0\u533a, \u6e05\u8fdc\u5e02, \u5e7f\u4e1c\u7701, 511500, \u4e2d\u56fd",
+"summary_polyline": "q~{oCqsypT@MP`@BZAPDN]FGFhANb@IVBXFTTNZCn@Q`@DP\\HZGd@DVLnALLBJHTAFHL@NGXPJEV?LDHE?Y[?EFMIWMWDQHEFSLCJSASDi@QY]CMw@OUEI@KGKg@H{ASKU@IEM@w@IE[EOIIMEI@EIoBaAFdARd@?I~@sCHEGJYHK[?c@M]\\RUb@y@rBbAR\\D?@",
+"average_heartrate": null,
+"average_speed": 1.431,
+"elevation_gain": 7.7,
+"source": "strava",
+"streak": 1
 }
 ]

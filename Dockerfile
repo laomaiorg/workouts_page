@@ -57,5 +57,6 @@ COPY --from=data /root/running_page /root/running_page
 RUN pnpm run build
 
 FROM nginx:alpine AS web
+COPY --from=frontend-build /root/running_page/nginx/default.conf /etc/nginx/conf.d/default.conf
 COPY --from=frontend-build /root/running_page/dist /usr/share/nginx/html/
 COPY --from=frontend-build /root/running_page/assets /usr/share/nginx/html/assets

@@ -1806,5 +1806,21 @@
 "elevation_gain": 0.0,
 "source": "strava",
 "streak": 27
+},
+{
+"run_id": 14970117764,
+"name": "\u5348\u540e\u8dd1\u6b65",
+"distance": 10023.8,
+"moving_time": "1:20:13",
+"type": "Run",
+"start_date": "2025-07-01 06:06:12+00:00",
+"start_date_local": "2025-07-01 14:06:12",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 114.5,
+"average_speed": 2.083,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 28
 }
 ]

@@ -2158,5 +2158,37 @@
 "elevation_gain": 0.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 15208286197,
+"name": "\u5348\u540e\u8dd1\u6b65",
+"distance": 5472.4,
+"moving_time": "0:40:03",
+"type": "Run",
+"start_date": "2025-07-23 07:34:06+00:00",
+"start_date_local": "2025-07-23 15:34:06",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 127.8,
+"average_speed": 2.277,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 15217910605,
+"name": "\u5348\u540e\u8dd1\u6b65",
+"distance": 5027.2,
+"moving_time": "0:40:01",
+"type": "Run",
+"start_date": "2025-07-24 06:43:42+00:00",
+"start_date_local": "2025-07-24 14:43:42",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 117.9,
+"average_speed": 2.094,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 2
 }
 ]
